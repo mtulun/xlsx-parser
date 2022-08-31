@@ -119,6 +119,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/excel_files
+/value_list
 
 # mypy
 .mypy_cache/
