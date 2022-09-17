@@ -2,7 +2,7 @@
 
 **What is the purpose of this script?**
     
-    - It is aimed to get certain data in a certain column from many excel files and worksheets.
+    - It is aimed to get certain data in a certain column from many excel files and worksheets with one execution.
 
 ### Prerequisites
 
@@ -10,6 +10,7 @@
   <li>Pandas</li>
   <li>Glob</li>
   <li>Regex</li>
+  <li>Csv</li>
   <li>Multiple Excel files with multiple sheets</li>
 </ol>
 
